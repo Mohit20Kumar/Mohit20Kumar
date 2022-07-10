@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 
-- 💬 Ask me about **Anything related to Web Development and Secrets of Life.**
+- 💬 Ask me **Anything related to Web Development and Secrets of Life.**
 
 - 📫 How to reach me **mohitkumar20021220@gmail.com**
 
