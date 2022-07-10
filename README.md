@@ -5,11 +5,11 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 
-- 💬 Ask me **Anything related to Web Development and Secrets of Life.**
+- 💬 Ask me **anything related to Web Development and Secrets of Life.**
 
 - 📫 How to reach me **mohitkumar20021220@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3uEhMOt](https://bit.ly/3uEhMOt)
+- 📄 Know about my experiences through [My Resume.](https://bit.ly/3uEhMOt)
 
 - ⚡ Fun fact **I am Iron Man!**
 
