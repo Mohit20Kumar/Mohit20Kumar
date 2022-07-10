@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-<h3 align="center">A Passionate Learner and Tech Enthusiast</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit20kumar" alt="mohit20kumar" /></a> </p>
+<h3 align="center">A Passionate Learner and Tech Enthusiast.</h3>
 
 - 🌱 I’m currently learning **M E R N and Programming.**
 
