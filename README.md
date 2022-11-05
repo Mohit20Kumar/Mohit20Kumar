@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 <h3 align="center">A Passionate Learner and Tech Enthusiast.</h3>
 
-- 🌱 I’m currently learning **M E R N and Programming.**
+- 🌱 I’m currently learning **M E R N and WEB3.**
 
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 
