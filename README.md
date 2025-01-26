@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mohitkumar20021220@gmail.com**
 
-- 📄 Know about my experiences through [My Resume.](https://bit.ly/3uEhMOt)
+- 📄 Know about my experiences through [My Resume.](https://drive.google.com/file/d/1R0o44mVF7275uIan6pN39MGXM8T99cVK/view?usp=sharing)
 
 - ⚡ Fun fact **I am Iron Man!**
 
